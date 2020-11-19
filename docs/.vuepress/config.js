@@ -8,11 +8,11 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
       {
-        text: 'Design',
+        text: 'Components',
         ariaLabel: 'Language Menu',
         items: [
-          { text: 'Page Components', link: '/design/page-components/' },
-          { text: 'In Page Components', link: '/design/inpage-components/' }
+          { text: 'Page Components', link: '/components/page-components/' },
+          { text: 'In Page Components', link: '/components/inpage-components/' }
         ]
       },
     ],
