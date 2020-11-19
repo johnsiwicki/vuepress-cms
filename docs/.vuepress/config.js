@@ -8,8 +8,12 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
       {
-        text: "GitHub",
-        link: "https://github.com/p440davis/VuePress-with-Netlify-CMS",
+        text: 'Design',
+        ariaLabel: 'Language Menu',
+        items: [
+          { text: 'Page Components', link: '/design/page-components/' },
+          { text: 'In Page Components', link: '/design/inpage-components/' }
+        ]
       },
     ],
     sidebar: ["/_pages/guide"],
