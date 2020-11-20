@@ -2,7 +2,7 @@
 home: true
 heroImage: /media/VuePress_+_Netlify_CMS.png
 heroText: Treehouse Design System
-tagline: A starter template for your JAMstack website
+tagline: A starter template
 actionText: Get Started →
 actionLink: /guide/
 features:
