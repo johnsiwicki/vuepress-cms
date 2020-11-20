@@ -2,7 +2,7 @@
 title: Components
 description: How to use this template to create your new VuePress site, deploy
   it to Netlify and connect up your CMS.
-permalink: /:regular
+permalink: /:slug
 ---
 
 1. Home Page 
