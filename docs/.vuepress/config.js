@@ -11,8 +11,8 @@ module.exports = {
         text: 'Guides',
         ariaLabel: 'Language Menu',
         items: [
-          { text: 'How To Setup A Test', link: '/guide/page-components/' },
-          { text: 'How To Setup Google Tag Manager', link: '/guide/inpage-components/' }
+          { text: 'How To Setup A Test', link: '/guides/page-components/' },
+          { text: 'How To Setup Google Tag Manager', link: '/guides/inpage-components/' }
         ]
       },
     ],
