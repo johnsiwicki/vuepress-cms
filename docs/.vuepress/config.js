@@ -6,13 +6,13 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
-      { text: "Guide", link: "/guide/" },
+      { text: "Components", link: "/components/" },
       {
-        text: 'Components',
+        text: 'Guides',
         ariaLabel: 'Language Menu',
         items: [
-          { text: 'Page Components', link: '/components/page-components/' },
-          { text: 'In Page Components', link: '/components/inpage-components/' }
+          { text: 'How To Setup A Test', link: '/guide/page-components/' },
+          { text: 'How To Setup Google Tag Manager', link: '/guide/inpage-components/' }
         ]
       },
     ],
